@@ -1,4 +1,4 @@
-# Matriz Led ECA  
+# Matriz Led  
 
 Autor: Jordi Rodríguez  
   
