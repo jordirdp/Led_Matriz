@@ -3,7 +3,6 @@
 Autor: Jordi Rodríguez  
   
 Control de 5 matrices Led en serie desde Arduino  
-Utilizado para escribir mensajes en el departamento ECA de AG Mundet  
 Para la programación usaremos la plataforma Arduino IDE:  
 
 https://www.arduino.cc/en/software  
