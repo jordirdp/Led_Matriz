@@ -16,7 +16,7 @@ https://github.com/MajicDesigns/MD_MAX72XX
 Este código imprime el mensaje de texto de la linea 13 
   
   
-![Imagen Matriz_Led acabado](Matriz_Led.jpeg)  
+![Imagen Matriz_Led acabado](Matriz_Led.JPEG)  
 
 
 ## Material utilizado  
