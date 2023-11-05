@@ -8,7 +8,7 @@
 - Se han incluido las siguientes librerías:  
 -- [MD_MAX72xx](https://github.com/MajicDesigns/MD_MAX72XX)  
 - Este código realiza las siguientes funciones simples:  
--- Control de 5 matrices Led en serie desde Arduino
+-- Control de 5 matrices Led en serie desde Arduino  
 -- Impresión de mensajes utilizando las 5 matrices
 
 ### Hardware  
