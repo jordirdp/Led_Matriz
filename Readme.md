@@ -17,7 +17,8 @@
 - 4 x MAX7219 = Matriz led 8x8  
 
 ### Montaje  
-![Imagen](/Images/Matriz_Led.JPEG)  
+<img src="/Images/Matriz_Led.JPEG" width="300"/>   
+
 Conexiones a pines Arduino UNO:  
 - D10-= CS pin  
 - D11-= Data pin  
